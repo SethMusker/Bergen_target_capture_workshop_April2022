@@ -1,0 +1,417 @@
+Starting job 5490310 on c5-60 at Thu Apr 21 22:01:40 CEST 2022
+
+  1) StdEnv
+\n\tStarting VetHybPiper.sh...\n\n
+Collated contigs exist for Cr205LE_Crataegus-pycnoloba. Skipping.
+Collated contigs exist for Micr214RU_Micromeles-alnifolia. Skipping.
+Collated contigs exist for Cr197LE_Crataegus-aronia. Skipping.
+Collated contigs exist for Cr209Wiss_Crataegus-laevigata. Skipping.
+Collated contigs exist for Pyr227GrAl_Pyrus-regelii. Skipping.
+Collated contigs exist for Cr206Wiss_Crataegus-monogyna. Skipping.
+Collated contigs exist for Cr186TAD_Crataegus-brachyacantha. Skipping.
+Collated contigs exist for S232BIN_Sorbus-sambucifolia. Skipping.
+Collated contigs exist for Cr195RU_Crataegus-pentagyna. Skipping.
+Collated contigs exist for Mlu225ILL_Malus-ombrophila. Skipping.
+Collated contigs exist for Pyrn229Dut_Pyracantha-coccinea. Skipping.
+Collated contigs exist for Mlu238BIN_Malus-toringo. Skipping.
+Collated contigs exist for Hsp222TAD_Hesperomeles-obtusifolia. Skipping.
+Collated contigs exist for S230GrAl_Sorbus-tianschanica. Skipping.
+Collated contigs exist for Pru285BGUK_Prunus-tenella. Skipping.
+Collated contigs exist for Cr184TAD_Crataegus-triflora. Skipping.
+Collated contigs exist for Cr185TAD_Crataegus-punctata. Skipping.
+Collated contigs exist for S217RU_Sorbus-aucuparia. Skipping.
+Collated contigs exist for Cr183TAD_Crataegus-calpodendron. Skipping.
+Collated contigs exist for Pour210RU_Pourthiaea-villosa. Skipping.
+Collated contigs exist for Cr204Bab_Crataegus-dahurica. Skipping.
+Collated contigs exist for Mlu211GrAl_Malus-sieversii. Skipping.
+Collated contigs exist for Mlu226BIN_Malus-sylvestris. Skipping.
+Collated contigs exist for Cr202RU_Crataegus-pinnatifida. Skipping.
+Collated contigs exist for Cr196LE_Crataegus-chlorosarca. Skipping.
+Collated contigs exist for Cr193GrAl_Crataegus-remotilobata. Skipping.
+Using blastn for Cr205LE_Crataegus-pycnoloba.
+Using blastn for Micr214RU_Micromeles-alnifolia.
+Using blastn for Cr197LE_Crataegus-aronia.
+Using blastn for Cr209Wiss_Crataegus-laevigata.
+Using blastn for Pyr227GrAl_Pyrus-regelii.
+Using blastn for Cr206Wiss_Crataegus-monogyna.
+Using blastn for Cr186TAD_Crataegus-brachyacantha.
+Using blastn for S232BIN_Sorbus-sambucifolia.
+Using blastn for Cr195RU_Crataegus-pentagyna.
+Using blastn for Mlu225ILL_Malus-ombrophila.
+Using blastn for Pyrn229Dut_Pyracantha-coccinea.
+Using blastn for Mlu238BIN_Malus-toringo.
+Using blastn for Hsp222TAD_Hesperomeles-obtusifolia.
+Using blastn for S230GrAl_Sorbus-tianschanica.
+Using blastn for Pru285BGUK_Prunus-tenella.
+Using blastn for Cr184TAD_Crataegus-triflora.
+Using blastn for Cr185TAD_Crataegus-punctata.
+Using blastn for S217RU_Sorbus-aucuparia.
+Using blastn for Cr183TAD_Crataegus-calpodendron.
+Using blastn for Pour210RU_Pourthiaea-villosa.
+Using blastn for Cr204Bab_Crataegus-dahurica.
+Using blastn for Mlu211GrAl_Malus-sieversii.
+Using blastn for Mlu226BIN_Malus-sylvestris.
+Using blastn for Cr202RU_Crataegus-pinnatifida.
+Using blastn for Cr196LE_Crataegus-chlorosarca.
+Using blastn for Cr193GrAl_Crataegus-remotilobata.
+Running VetTargets_genome on Cr205LE_Crataegus-pycnoloba.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr205LE_Crataegus-pycnoloba_all_contigs.withHeader.txtNow thinning BLAST result, which has 168 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 164 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 164 rows. After thinning 164 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 164 rows.
+This thinned blast result was written to Cr205LE_Crataegus-pycnoloba_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Micr214RU_Micromeles-alnifolia.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Micr214RU_Micromeles-alnifolia_all_contigs.withHeader.txtNow thinning BLAST result, which has 192 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 183 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 183 rows. After thinning 183 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 183 rows.
+This thinned blast result was written to Micr214RU_Micromeles-alnifolia_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr197LE_Crataegus-aronia.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr197LE_Crataegus-aronia_all_contigs.withHeader.txtNow thinning BLAST result, which has 148 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 141 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 141 rows. After thinning 140 rows ( 99.3 %) remain.
+After removing redundant hits, BLAST result has 140 rows.
+This thinned blast result was written to Cr197LE_Crataegus-aronia_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr209Wiss_Crataegus-laevigata.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr209Wiss_Crataegus-laevigata_all_contigs.withHeader.txtNow thinning BLAST result, which has 177 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 175 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 175 rows. After thinning 175 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 175 rows.
+This thinned blast result was written to Cr209Wiss_Crataegus-laevigata_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Pyr227GrAl_Pyrus-regelii.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Pyr227GrAl_Pyrus-regelii_all_contigs.withHeader.txtNow thinning BLAST result, which has 178 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 169 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 169 rows. After thinning 169 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 169 rows.
+This thinned blast result was written to Pyr227GrAl_Pyrus-regelii_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr206Wiss_Crataegus-monogyna.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr206Wiss_Crataegus-monogyna_all_contigs.withHeader.txtNow thinning BLAST result, which has 176 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 169 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 169 rows. After thinning 169 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 169 rows.
+This thinned blast result was written to Cr206Wiss_Crataegus-monogyna_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr186TAD_Crataegus-brachyacantha.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr186TAD_Crataegus-brachyacantha_all_contigs.withHeader.txtNow thinning BLAST result, which has 189 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 183 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 183 rows. After thinning 182 rows ( 99.5 %) remain.
+After removing redundant hits, BLAST result has 182 rows.
+This thinned blast result was written to Cr186TAD_Crataegus-brachyacantha_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on S232BIN_Sorbus-sambucifolia.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_S232BIN_Sorbus-sambucifolia_all_contigs.withHeader.txtNow thinning BLAST result, which has 171 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 165 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 165 rows. After thinning 165 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 165 rows.
+This thinned blast result was written to S232BIN_Sorbus-sambucifolia_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr195RU_Crataegus-pentagyna.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr195RU_Crataegus-pentagyna_all_contigs.withHeader.txtNow thinning BLAST result, which has 197 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 190 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 190 rows. After thinning 190 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 190 rows.
+This thinned blast result was written to Cr195RU_Crataegus-pentagyna_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Mlu225ILL_Malus-ombrophila.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Mlu225ILL_Malus-ombrophila_all_contigs.withHeader.txtNow thinning BLAST result, which has 179 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 170 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 170 rows. After thinning 170 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 170 rows.
+This thinned blast result was written to Mlu225ILL_Malus-ombrophila_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Pyrn229Dut_Pyracantha-coccinea.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Pyrn229Dut_Pyracantha-coccinea_all_contigs.withHeader.txtNow thinning BLAST result, which has 162 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 155 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 155 rows. After thinning 155 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 155 rows.
+This thinned blast result was written to Pyrn229Dut_Pyracantha-coccinea_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Mlu238BIN_Malus-toringo.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Mlu238BIN_Malus-toringo_all_contigs.withHeader.txtNow thinning BLAST result, which has 180 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 169 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 169 rows. After thinning 169 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 169 rows.
+This thinned blast result was written to Mlu238BIN_Malus-toringo_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Hsp222TAD_Hesperomeles-obtusifolia.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Hsp222TAD_Hesperomeles-obtusifolia_all_contigs.withHeader.txtNow thinning BLAST result, which has 161 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 154 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 154 rows. After thinning 154 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 154 rows.
+This thinned blast result was written to Hsp222TAD_Hesperomeles-obtusifolia_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on S230GrAl_Sorbus-tianschanica.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_S230GrAl_Sorbus-tianschanica_all_contigs.withHeader.txtNow thinning BLAST result, which has 148 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 142 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 142 rows. After thinning 142 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 142 rows.
+This thinned blast result was written to S230GrAl_Sorbus-tianschanica_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Pru285BGUK_Prunus-tenella.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Pru285BGUK_Prunus-tenella_all_contigs.withHeader.txtNow thinning BLAST result, which has 61 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 59 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 59 rows. After thinning 59 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 59 rows.
+This thinned blast result was written to Pru285BGUK_Prunus-tenella_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr184TAD_Crataegus-triflora.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr184TAD_Crataegus-triflora_all_contigs.withHeader.txtNow thinning BLAST result, which has 199 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 193 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 193 rows. After thinning 193 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 193 rows.
+This thinned blast result was written to Cr184TAD_Crataegus-triflora_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr185TAD_Crataegus-punctata.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr185TAD_Crataegus-punctata_all_contigs.withHeader.txtNow thinning BLAST result, which has 177 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 172 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 172 rows. After thinning 171 rows ( 99.4 %) remain.
+After removing redundant hits, BLAST result has 171 rows.
+This thinned blast result was written to Cr185TAD_Crataegus-punctata_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on S217RU_Sorbus-aucuparia.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_S217RU_Sorbus-aucuparia_all_contigs.withHeader.txtNow thinning BLAST result, which has 177 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 169 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 169 rows. After thinning 169 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 169 rows.
+This thinned blast result was written to S217RU_Sorbus-aucuparia_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr183TAD_Crataegus-calpodendron.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr183TAD_Crataegus-calpodendron_all_contigs.withHeader.txtNow thinning BLAST result, which has 179 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 175 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 175 rows. After thinning 174 rows ( 99.4 %) remain.
+After removing redundant hits, BLAST result has 174 rows.
+This thinned blast result was written to Cr183TAD_Crataegus-calpodendron_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Pour210RU_Pourthiaea-villosa.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Pour210RU_Pourthiaea-villosa_all_contigs.withHeader.txtNow thinning BLAST result, which has 232 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 224 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 224 rows. After thinning 224 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 224 rows.
+This thinned blast result was written to Pour210RU_Pourthiaea-villosa_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr204Bab_Crataegus-dahurica.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr204Bab_Crataegus-dahurica_all_contigs.withHeader.txtNow thinning BLAST result, which has 168 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 166 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 166 rows. After thinning 166 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 166 rows.
+This thinned blast result was written to Cr204Bab_Crataegus-dahurica_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Mlu211GrAl_Malus-sieversii.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Mlu211GrAl_Malus-sieversii_all_contigs.withHeader.txtNow thinning BLAST result, which has 176 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 169 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 169 rows. After thinning 169 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 169 rows.
+This thinned blast result was written to Mlu211GrAl_Malus-sieversii_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Mlu226BIN_Malus-sylvestris.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Mlu226BIN_Malus-sylvestris_all_contigs.withHeader.txtNow thinning BLAST result, which has 187 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 179 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 179 rows. After thinning 179 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 179 rows.
+This thinned blast result was written to Mlu226BIN_Malus-sylvestris_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr202RU_Crataegus-pinnatifida.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr202RU_Crataegus-pinnatifida_all_contigs.withHeader.txtNow thinning BLAST result, which has 177 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 167 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 167 rows. After thinning 166 rows ( 99.4 %) remain.
+After removing redundant hits, BLAST result has 166 rows.
+This thinned blast result was written to Cr202RU_Crataegus-pinnatifida_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr196LE_Crataegus-chlorosarca.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr196LE_Crataegus-chlorosarca_all_contigs.withHeader.txtNow thinning BLAST result, which has 161 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 154 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 154 rows. After thinning 154 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 154 rows.
+This thinned blast result was written to Cr196LE_Crataegus-chlorosarca_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Running VetTargets_genome on Cr193GrAl_Crataegus-remotilobata.
+Beginning VetTargets_genome.R...
+Reading blast file: /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/blast_out/blastn_kew_probes_Malus_exons_concat_for_TargetVet.fasta_to_Cr193GrAl_Crataegus-remotilobata_all_contigs.withHeader.txtNow thinning BLAST result, which has 183 rows.
+BLAST type specified as blastn .
+After removing matches with pident < 70 and length < 50 BLAST result has 179 rows.
+Now removing redundant BLAST hits.
+Thinning blast result...
+Original blast result had 179 rows. After thinning 179 rows ( 100 %) remain.
+After removing redundant hits, BLAST result has 179 rows.
+This thinned blast result was written to Cr193GrAl_Crataegus-remotilobata_blastn_Thinned_minPident70_minLength50.txt .
+Read 20 items
+VetTargets_genome.R is done!
+Detecting paralogs...
+Beginning DetectParalogs with the following parameters:
+Samples list:	 /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/namelist.txt 
+VetTargets_genome results directory:	 /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/VetTargets_genome_output 
+Output directory:	 /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/DetectParalogs_output 
+Force overwrite of existing results in output directory?:	 TRUE 
+input phylogeny:	 /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/NULL 
+ingroup samples:	 /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/NULL 
+
+###----------------------------------------------------------------------###
+
+Specified output directory exists NOT. Will attempt to create it.
+Read 26 items
+minimum paralogy rate is 0 . Using the following formula to predict paralogs
+paralog_percent_ignoreMissing ~ orderMean + 0
+<environment: 0x4aad470>
+no phylogeny provided. Moving on.
+Saving 30 x 17.8 cm image
+Saving 30 x 17.8 cm image
+Saving 30 x 17.8 cm image
+Saving 30 x 17.8 cm image
+Saving 30 x 17.8 cm image
+Saving 30 x 17.8 cm image
+No ingroup provided. Moving on.
+Using all samples -- Identified 18 paralogs!
+VetHybPiper.sh finished!
+
+Task and CPU usage stats:
+       JobID    JobName  AllocCPUS   NTasks     MinCPU MinCPUTask     AveCPU    Elapsed ExitCode 
+------------ ---------- ---------- -------- ---------- ---------- ---------- ---------- -------- 
+5490310      vethybpip+          1                                             00:43:29      0:0 
+5490310.bat+      batch          1        1   00:01:28          0   00:01:28   00:43:29      0:0 
+5490310.ext+     extern          1        1   00:00:00          0   00:00:00   00:43:29      0:0 
+
+Memory usage stats:
+       JobID     MaxRSS MaxRSSTask     AveRSS MaxPages   MaxPagesTask   AvePages 
+------------ ---------- ---------- ---------- -------- -------------- ---------- 
+5490310                                                                          
+5490310.bat+    100300K          0    100300K        0              0          0 
+5490310.ext+          0          0          0        0              0          0 
+
+Disk usage stats:
+       JobID  MaxDiskRead MaxDiskReadTask    AveDiskRead MaxDiskWrite MaxDiskWriteTask   AveDiskWrite 
+------------ ------------ --------------- -------------- ------------ ---------------- -------------- 
+5490310                                                                                               
+5490310.bat+       13.55M               0         13.55M        0.25M                0          0.25M 
+5490310.ext+        0.00M               0          0.00M            0                0              0 
+
+Job 5490310 completed at Thu Apr 21 22:45:10 CEST 2022

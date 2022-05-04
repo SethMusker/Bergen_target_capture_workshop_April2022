@@ -1,0 +1,15 @@
+Warning messages:
+1: In nlm(f = .sce, p = .initPars(x, y, 2), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+2: In nlm(f = .sce, p = .initPars(x, y, 3), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+3: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+4: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+5: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+6: In nlm(f = .sce, p = .initPars(x, y, 2), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+7: Removed 72 row(s) containing missing values (geom_path).
+8: Removed 97 row(s) containing missing values (geom_path).

@@ -1,0 +1,31 @@
+java -ea -Xmx53543m -Xms53543m -cp /cluster/software/BBMap/38.79-GCC-8.3.0/current/ jgi.Dedupe in=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-pinnatifida_Cr202RU_all_contigs.fasta out=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-pinnatifida_Cr202RU_all_contigs_deduped_97.fasta threads=1 minidentity=97
+Executing jgi.Dedupe [in=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-pinnatifida_Cr202RU_all_contigs.fasta, out=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-pinnatifida_Cr202RU_all_contigs_deduped_97.fasta, threads=1, minidentity=97]
+Version 38.79
+
+Set threads to 1
+Initial:
+Memory: max=56153m, total=56153m, free=56136m, used=17m
+
+Found 6 duplicates.
+Finished exact matches.    Time: 0.161 seconds.
+Memory: max=56153m, total=56153m, free=56002m, used=151m
+
+Found 22 contained sequences.
+Finished containment.      Time: 0.165 seconds.
+Memory: max=56153m, total=56153m, free=55985m, used=168m
+
+Removed 22 invalid entries.
+Finished invalid removal.  Time: 0.009 seconds.
+Memory: max=56153m, total=56153m, free=55985m, used=168m
+
+Input:                  	141 reads 		104013 bases.
+Duplicates:             	6 reads (4.26%) 	468 bases (0.45%)     	0 collisions.
+Containments:           	22 reads (15.60%) 	3255 bases (3.13%)    	318 collisions.
+Result:                 	113 reads (80.14%) 	100290 bases (96.42%)
+
+Printed output.            Time: 0.028 seconds.
+Memory: max=56153m, total=56153m, free=55985m, used=168m
+
+Time:                         	0.468 seconds.
+Reads Processed:         141 	0.30k reads/sec
+Bases Processed:        104k 	0.22m bases/sec

@@ -1,0 +1,31 @@
+java -ea -Xmx53543m -Xms53543m -cp /cluster/software/BBMap/38.79-GCC-8.3.0/current/ jgi.Dedupe in=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-remotilobata_Cr193GrAl_all_contigs.fasta out=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-remotilobata_Cr193GrAl_all_contigs_deduped_97.fasta threads=1 minidentity=97
+Executing jgi.Dedupe [in=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-remotilobata_Cr193GrAl_all_contigs.fasta, out=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-remotilobata_Cr193GrAl_all_contigs_deduped_97.fasta, threads=1, minidentity=97]
+Version 38.79
+
+Set threads to 1
+Initial:
+Memory: max=56153m, total=56153m, free=56136m, used=17m
+
+Found 0 duplicates.
+Finished exact matches.    Time: 0.156 seconds.
+Memory: max=56153m, total=56153m, free=56002m, used=151m
+
+Found 5 contained sequences.
+Finished containment.      Time: 0.057 seconds.
+Memory: max=56153m, total=56153m, free=55985m, used=168m
+
+Removed 5 invalid entries.
+Finished invalid removal.  Time: 0.066 seconds.
+Memory: max=56153m, total=56153m, free=55985m, used=168m
+
+Input:                  	81 reads 		99301 bases.
+Duplicates:             	0 reads (0.00%) 	0 bases (0.00%)     	0 collisions.
+Containments:           	5 reads (6.17%) 	1625 bases (1.64%)    	42 collisions.
+Result:                 	76 reads (93.83%) 	97676 bases (98.36%)
+
+Printed output.            Time: 0.030 seconds.
+Memory: max=56153m, total=56153m, free=55985m, used=168m
+
+Time:                         	0.420 seconds.
+Reads Processed:          81 	0.19k reads/sec
+Bases Processed:       99301 	0.24m bases/sec

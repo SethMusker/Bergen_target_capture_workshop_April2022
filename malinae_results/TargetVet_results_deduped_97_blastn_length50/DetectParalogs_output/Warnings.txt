@@ -1,0 +1,27 @@
+Warning messages:
+1: In nlm(f = .sce, p = .initPars(x, y, 2), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+2: In nlm(f = .sce, p = .initPars(x, y, 3), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+3: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+4: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+5: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+6: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+7: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+8: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+9: In nlm(f = .sce, p = .initPars(x, y, 3), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+10: In nlm(f = .sce, p = .initPars(x, y, 3), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+11: In nlm(f = .sce, p = .initPars(x, y, 3), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+12: In nlm(f = .sce, p = .initPars(x, y, 3), x = x, yobs = y,  ... :
+  NA/Inf replaced by maximum positive value
+13: Removed 74 row(s) containing missing values (geom_path).
+14: Removed 94 row(s) containing missing values (geom_path).

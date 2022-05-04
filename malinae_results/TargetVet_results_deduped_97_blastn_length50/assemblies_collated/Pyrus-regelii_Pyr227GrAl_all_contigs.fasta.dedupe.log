@@ -1,0 +1,31 @@
+java -ea -Xmx53548m -Xms53548m -cp /cluster/software/BBMap/38.79-GCC-8.3.0/current/ jgi.Dedupe in=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Pyrus-regelii_Pyr227GrAl_all_contigs.fasta out=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Pyrus-regelii_Pyr227GrAl_all_contigs_deduped_97.fasta threads=1 minidentity=97
+Executing jgi.Dedupe [in=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Pyrus-regelii_Pyr227GrAl_all_contigs.fasta, out=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Pyrus-regelii_Pyr227GrAl_all_contigs_deduped_97.fasta, threads=1, minidentity=97]
+Version 38.79
+
+Set threads to 1
+Initial:
+Memory: max=56153m, total=56153m, free=56136m, used=17m
+
+Found 0 duplicates.
+Finished exact matches.    Time: 0.165 seconds.
+Memory: max=56153m, total=56153m, free=56002m, used=151m
+
+Found 4 contained sequences.
+Finished containment.      Time: 0.149 seconds.
+Memory: max=56153m, total=56153m, free=55985m, used=168m
+
+Removed 4 invalid entries.
+Finished invalid removal.  Time: 0.009 seconds.
+Memory: max=56153m, total=56153m, free=55985m, used=168m
+
+Input:                  	80 reads 		97099 bases.
+Duplicates:             	0 reads (0.00%) 	0 bases (0.00%)     	0 collisions.
+Containments:           	4 reads (5.00%) 	1883 bases (1.94%)    	34 collisions.
+Result:                 	76 reads (95.00%) 	95216 bases (98.06%)
+
+Printed output.            Time: 0.028 seconds.
+Memory: max=56153m, total=56153m, free=55985m, used=168m
+
+Time:                         	0.458 seconds.
+Reads Processed:          80 	0.17k reads/sec
+Bases Processed:       97099 	0.21m bases/sec

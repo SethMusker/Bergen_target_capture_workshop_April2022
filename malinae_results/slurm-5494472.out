@@ -1,0 +1,166 @@
+Starting job 5494472 on c5-52 at Fri Apr 22 13:49:56 CEST 2022
+
+  1) StdEnv
+Starting VetHybPiper.sh...
+Collated contigs exist for Cr205LE_Crataegus-pycnoloba. Skipping.
+Collated contigs exist for Micr214RU_Micromeles-alnifolia. Skipping.
+Collated contigs exist for Cr197LE_Crataegus-aronia. Skipping.
+Collated contigs exist for Cr209Wiss_Crataegus-laevigata. Skipping.
+Collated contigs exist for Pyr227GrAl_Pyrus-regelii. Skipping.
+Collated contigs exist for Cr206Wiss_Crataegus-monogyna. Skipping.
+Collated contigs exist for Cr186TAD_Crataegus-brachyacantha. Skipping.
+Collated contigs exist for S232BIN_Sorbus-sambucifolia. Skipping.
+Collated contigs exist for Cr195RU_Crataegus-pentagyna. Skipping.
+Collated contigs exist for Mlu225ILL_Malus-ombrophila. Skipping.
+Collated contigs exist for Pyrn229Dut_Pyracantha-coccinea. Skipping.
+Collated contigs exist for Mlu238BIN_Malus-toringo. Skipping.
+Collated contigs exist for Hsp222TAD_Hesperomeles-obtusifolia. Skipping.
+Collated contigs exist for S230GrAl_Sorbus-tianschanica. Skipping.
+Collated contigs exist for Pru285BGUK_Prunus-tenella. Skipping.
+Collated contigs exist for Cr184TAD_Crataegus-triflora. Skipping.
+Collated contigs exist for Cr185TAD_Crataegus-punctata. Skipping.
+Collated contigs exist for S217RU_Sorbus-aucuparia. Skipping.
+Collated contigs exist for Cr183TAD_Crataegus-calpodendron. Skipping.
+Collated contigs exist for Pour210RU_Pourthiaea-villosa. Skipping.
+Collated contigs exist for Cr204Bab_Crataegus-dahurica. Skipping.
+Collated contigs exist for Mlu211GrAl_Malus-sieversii. Skipping.
+Collated contigs exist for Mlu226BIN_Malus-sylvestris. Skipping.
+Collated contigs exist for Cr202RU_Crataegus-pinnatifida. Skipping.
+Collated contigs exist for Cr196LE_Crataegus-chlorosarca. Skipping.
+Collated contigs exist for Cr193GrAl_Crataegus-remotilobata. Skipping.
+BLAST output exists for Cr205LE_Crataegus-pycnoloba. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Micr214RU_Micromeles-alnifolia. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr197LE_Crataegus-aronia. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr209Wiss_Crataegus-laevigata. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Pyr227GrAl_Pyrus-regelii. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr206Wiss_Crataegus-monogyna. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr186TAD_Crataegus-brachyacantha. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for S232BIN_Sorbus-sambucifolia. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr195RU_Crataegus-pentagyna. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Mlu225ILL_Malus-ombrophila. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Pyrn229Dut_Pyracantha-coccinea. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Mlu238BIN_Malus-toringo. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Hsp222TAD_Hesperomeles-obtusifolia. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for S230GrAl_Sorbus-tianschanica. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Pru285BGUK_Prunus-tenella. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr184TAD_Crataegus-triflora. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr185TAD_Crataegus-punctata. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for S217RU_Sorbus-aucuparia. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr183TAD_Crataegus-calpodendron. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Pour210RU_Pourthiaea-villosa. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr204Bab_Crataegus-dahurica. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Mlu211GrAl_Malus-sieversii. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Mlu226BIN_Malus-sylvestris. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr202RU_Crataegus-pinnatifida. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr196LE_Crataegus-chlorosarca. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+BLAST output exists for Cr193GrAl_Crataegus-remotilobata. Skipping. If you wish to redo the blastn step, move the folder 'blast_out' to another directory, rename it to something else, or remove the relevant files in the blast_out directory with the prefix blastn.
+VetTargets_genome output exists for Cr205LE_Crataegus-pycnoloba. Skipping.
+VetTargets_genome output exists for Micr214RU_Micromeles-alnifolia. Skipping.
+VetTargets_genome output exists for Cr197LE_Crataegus-aronia. Skipping.
+VetTargets_genome output exists for Cr209Wiss_Crataegus-laevigata. Skipping.
+VetTargets_genome output exists for Pyr227GrAl_Pyrus-regelii. Skipping.
+VetTargets_genome output exists for Cr206Wiss_Crataegus-monogyna. Skipping.
+VetTargets_genome output exists for Cr186TAD_Crataegus-brachyacantha. Skipping.
+VetTargets_genome output exists for S232BIN_Sorbus-sambucifolia. Skipping.
+VetTargets_genome output exists for Cr195RU_Crataegus-pentagyna. Skipping.
+VetTargets_genome output exists for Mlu225ILL_Malus-ombrophila. Skipping.
+VetTargets_genome output exists for Pyrn229Dut_Pyracantha-coccinea. Skipping.
+VetTargets_genome output exists for Mlu238BIN_Malus-toringo. Skipping.
+VetTargets_genome output exists for Hsp222TAD_Hesperomeles-obtusifolia. Skipping.
+VetTargets_genome output exists for S230GrAl_Sorbus-tianschanica. Skipping.
+VetTargets_genome output exists for Pru285BGUK_Prunus-tenella. Skipping.
+VetTargets_genome output exists for Cr184TAD_Crataegus-triflora. Skipping.
+VetTargets_genome output exists for Cr185TAD_Crataegus-punctata. Skipping.
+VetTargets_genome output exists for S217RU_Sorbus-aucuparia. Skipping.
+VetTargets_genome output exists for Cr183TAD_Crataegus-calpodendron. Skipping.
+VetTargets_genome output exists for Pour210RU_Pourthiaea-villosa. Skipping.
+VetTargets_genome output exists for Cr204Bab_Crataegus-dahurica. Skipping.
+VetTargets_genome output exists for Mlu211GrAl_Malus-sieversii. Skipping.
+VetTargets_genome output exists for Mlu226BIN_Malus-sylvestris. Skipping.
+VetTargets_genome output exists for Cr202RU_Crataegus-pinnatifida. Skipping.
+VetTargets_genome output exists for Cr196LE_Crataegus-chlorosarca. Skipping.
+VetTargets_genome output exists for Cr193GrAl_Crataegus-remotilobata. Skipping.
+Ingroup file not found or not provided.
+Phylogeny file not found or not provided.
+Detecting paralogs...
+Beginning DetectParalogs with the following parameters:
+Samples list:	 /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/namelist.txt 
+VetTargets_genome results directory:	 /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/VetTargets_genome_output 
+Output directory:	 /cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results/04_processed_gene_directories/TargetVet_results_blastn_length50/DetectParalogs_output 
+Force overwrite of existing results in output directory?:	 TRUE 
+input phylogeny:	 
+ingroup samples:	 
+
+###-------------------------------------------------###
+
+Specified output directory exists NOT. Will attempt to create it.
+Read 26 items
+Fitting piecewise constant a.k.a step-function model with # breakpoints = 1.
+Breakpoint estimate = 10 meaning the step-function estimated number of paralogs is
+	 20 - 10 = 10 .
+
+Fitting n-parameter logistic regression (package 'nplr') with automated selection of best n.
+Testing pars...
+The 5-parameters model showed better performance
+The best-fitting model had 5 parameters:
+        bottom      top      xmid      scal        s
+1 -8.24578e-05 1.025818 -4.852868 0.1296374 48.33475
+
+
+NP50 estimate = 9 meaning the n-parameter logistic regression estimated number of paralogs is
+	 20 - 9 = 11 .
+Now fitting nplr models separately to each sample.
+WARNING: some samples seem to have anomalous paralogy patterns!
+Specifically, their absolute mean observed minus expected paralogy rate exceeds 10 %.
+The names of these samples are written to the file 'Paralogy_anomalous_samples.txt'.
+The results of the sample-wise paralogy and anomalous sample detection analysis are written to 'Paralogy_estimates_samplewise.csv'.
+
+Saving 30 x 17.8 cm image
+Saving 30 x 17.8 cm image
+Saving 30 x 17.8 cm image
+Saving 30 x 17.8 cm image
+Saving 30 x 17.8 cm image
+No ingroup provided. Moving on.
+Using all samples -- Identified 11 paralogs!
+
+DetectParalogs.R finished!
+Warning messages:
+1: In nlm(f = .sce, p = .initPars(x, y, 2), x = x, yobs = y, .weight,  :
+  NA/Inf replaced by maximum positive value
+2: In nlm(f = .sce, p = .initPars(x, y, 3), x = x, yobs = y, .weight,  :
+  NA/Inf replaced by maximum positive value
+3: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y, .weight,  :
+  NA/Inf replaced by maximum positive value
+4: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y, .weight,  :
+  NA/Inf replaced by maximum positive value
+5: In nlm(f = .sce, p = .initPars(x, y, 5), x = x, yobs = y, .weight,  :
+  NA/Inf replaced by maximum positive value
+6: In nlm(f = .sce, p = .initPars(x, y, 2), x = x, yobs = y, .weight,  :
+  NA/Inf replaced by maximum positive value
+7: Removed 72 row(s) containing missing values (geom_path). 
+8: Removed 97 row(s) containing missing values (geom_path). 
+Warnings are written to warnings.txt. These are usually harmless.
+VetHybPiper.sh finished!
+
+Task and CPU usage stats:
+       JobID    JobName  AllocCPUS   NTasks     MinCPU MinCPUTask     AveCPU    Elapsed ExitCode 
+------------ ---------- ---------- -------- ---------- ---------- ---------- ---------- -------- 
+5494472      vethybpip+          1                                             00:01:26      0:0 
+5494472.bat+      batch          1        1   00:00:13          0   00:00:13   00:01:26      0:0 
+5494472.ext+     extern          1        1   00:00:00          0   00:00:00   00:01:26      0:0 
+
+Memory usage stats:
+       JobID     MaxRSS MaxRSSTask     AveRSS MaxPages   MaxPagesTask   AvePages 
+------------ ---------- ---------- ---------- -------- -------------- ---------- 
+5494472                                                                          
+5494472.bat+     62852K          0     62852K        0              0          0 
+5494472.ext+          0          0          0        0              0          0 
+
+Disk usage stats:
+       JobID  MaxDiskRead MaxDiskReadTask    AveDiskRead MaxDiskWrite MaxDiskWriteTask   AveDiskWrite 
+------------ ------------ --------------- -------------- ------------ ---------------- -------------- 
+5494472                                                                                               
+5494472.bat+       13.55M               0         13.55M        0.44M                0          0.44M 
+5494472.ext+        0.00M               0          0.00M            0                0              0 
+
+Job 5494472 completed at Fri Apr 22 13:51:23 CEST 2022

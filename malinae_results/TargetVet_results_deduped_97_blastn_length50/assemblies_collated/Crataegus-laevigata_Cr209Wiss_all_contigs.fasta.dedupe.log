@@ -1,0 +1,31 @@
+java -ea -Xmx53556m -Xms53556m -cp /cluster/software/BBMap/38.79-GCC-8.3.0/current/ jgi.Dedupe in=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-laevigata_Cr209Wiss_all_contigs.fasta out=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-laevigata_Cr209Wiss_all_contigs_deduped_97.fasta threads=1 minidentity=97
+Executing jgi.Dedupe [in=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-laevigata_Cr209Wiss_all_contigs.fasta, out=/cluster/work/users/sethmusker/malinae_353/hybpiper_rgbv_results_deduped/04_processed_gene_directories/TargetVet_results_deduped_97_blastn_length50/assemblies_collated/Crataegus-laevigata_Cr209Wiss_all_contigs_deduped_97.fasta, threads=1, minidentity=97]
+Version 38.79
+
+Set threads to 1
+Initial:
+Memory: max=56170m, total=56170m, free=56153m, used=17m
+
+Found 0 duplicates.
+Finished exact matches.    Time: 0.151 seconds.
+Memory: max=56170m, total=56170m, free=56019m, used=151m
+
+Found 2 contained sequences.
+Finished containment.      Time: 0.151 seconds.
+Memory: max=56170m, total=56170m, free=56002m, used=168m
+
+Removed 2 invalid entries.
+Finished invalid removal.  Time: 0.012 seconds.
+Memory: max=56170m, total=56170m, free=56002m, used=168m
+
+Input:                  	93 reads 		113412 bases.
+Duplicates:             	0 reads (0.00%) 	0 bases (0.00%)     	0 collisions.
+Containments:           	2 reads (2.15%) 	404 bases (0.36%)    	75 collisions.
+Result:                 	91 reads (97.85%) 	113008 bases (99.64%)
+
+Printed output.            Time: 0.104 seconds.
+Memory: max=56170m, total=56170m, free=56002m, used=168m
+
+Time:                         	0.522 seconds.
+Reads Processed:          93 	0.18k reads/sec
+Bases Processed:        113k 	0.22m bases/sec
